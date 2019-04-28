@@ -48,15 +48,3 @@ function changeColor(event) {
         event.target.style.backgroundColor = color.value;
     }
 }
-
-
-
-
-
-
-/*
-Here are some sources where I help myself, when I got stuck
-https://knowledge.udacity.com/questions/36764
-https://knowledge.udacity.com/questions/36889
-
-*/
